@@ -2,11 +2,11 @@
 This repository contains my solutions for the [Advent of Code 2026](https://adventofcode.com/2026). 
 
 ## FAQ
-* Do I guarantee I did not use AI in the process?
+* Do I guarantee I did not use AI in the process?<br/>
     Yes.
-  
-* Do I guarantee I will finish all the challenges?
-    No. I do also have a full-time job and a pile of knitting I'd like to do.
-  
-* Do I guarantee my solutions will be elegant?
+<br/>  
+* Do I guarantee I will finish all the challenges?<br/>
+    No. I do also have a full-time job and a pile of knitting I'd like to do.<br/>
+<br/>  
+* Do I guarantee my solutions will be elegant?<br/>
     Also no. But I love puzzles, and I'm trying to recapture the joy of coding. 
